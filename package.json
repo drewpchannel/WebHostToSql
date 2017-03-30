@@ -1,0 +1,24 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "\"# WebHostToSql\"",
+  "main": "host.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "pg": "^6.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drewpchannel/WebHostToSql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drewpchannel/WebHostToSql/issues"
+  },
+  "homepage": "https://github.com/drewpchannel/WebHostToSql#readme"
+}
